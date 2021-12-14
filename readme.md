@@ -97,7 +97,7 @@ You can contact me via:
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:maxijer1234@yandex.ru)](mailto:maxijer1234@yandex.ru)
 [![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/maxijer)](https://vk.com/maxijer)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/maxijer68/)](https://www.instagram.com/maxijer68/)
-[![Twitter](http://img.shields.io/badge/-Twitter-0000?logo=Twitter&color=00acee&logoColor=white&link=https://twitter.com/maxijer)](https://twitter.com/maxijer)
+[![Twitter](http://img.shields.io/badge/-Twitter-0000?logo=Twitter&color=00acee&logoColor=white&link=https://twitter.com/maxijer68)](https://twitter.com/maxijer68)
 [![Gitlab](http://img.shields.io/badge/-Gitlab-0000?logo=gitlab&color=logoColor=white&link=https://gitlab.com/maxijer1)](https://gitlab.com/maxijer1)
 [![Codeforces](http://img.shields.io/badge/-Codeforces-0000?logo=codeforces&color=red&logoColor=white&link=https://codeforces.com/profile/maxijer1234)](https://codeforces.com/profile/maxijer1234)
 
