@@ -53,6 +53,8 @@ C++ PROJECTS
 
 https://github.com/maxijer/DLL_INJECTOR
 
+https://github.com/maxijer/Hackaton_registrator
+
 ------------------
 ML PROJECTS
 
